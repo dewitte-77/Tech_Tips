@@ -197,7 +197,7 @@ tested on Samsung Galaxy Tab S8
 When connecting the 3W/3E devices directly to the tablet with a usb-c male-male cable it might occur that the device does not receive enough power from the tablet.
 Use a USB-C OTG adapter/splitter that allows you to connect power and data. This works very well.
 
-![](./pics/DSC_1572.jpg)
+![](./pics/DSC_1572.JPG)
 
 
 ### Configure the ethernet device on android
