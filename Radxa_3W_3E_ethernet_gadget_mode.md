@@ -205,16 +205,16 @@ First disconnect from WiFi and Cellular to ensure the routing is working as expe
 You can always connect WiFi and Cellular again AFTER you first connected to the Radxa 3W/3E
 
 A new icon will be showing in the status bar above
-![[Screenshot_20250802_132443_One UI Home.jpg]]
+![](./pics/Screenshot_20250802_132443_One UI Home.jpg)
 
 Follow the steps in the following screenshots to configure the ethernet device with a fixed IP. You can only configure a static IP when the connection is OFF, so check this and enable the connection again after setting the address
 
-![[Screenshot_20250802_132459_Settings_1.jpg]]
-![[Screenshot_20250802_132513_Settings_2.jpg]]
+![](./pics/Screenshot_20250802_132459_Settings_1.jpg)
+![](./pics/Screenshot_20250802_132513_Settings_2.jpg)
 Make sure the Ethernet Device is OFF
-![[Screenshot_20250802_132529_Settings_3.jpg]]
+![](./pics/Screenshot_20250802_132529_Settings_3.jpg)
 Then turn it back ON
-![[Screenshot_20250802_132542_Settings_4.jpg]]
+![](./pics/Screenshot_20250802_132542_Settings_4.jpg)
 
 Now you can connect using Termux or JuiceSSH or others...
-![[Screenshot_20250802_132643_Samsung DeX home.jpg]]
+![](./pics/Screenshot_20250802_132643_SamsungDeXhome.jpg)
