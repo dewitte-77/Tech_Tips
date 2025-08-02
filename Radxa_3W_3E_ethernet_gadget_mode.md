@@ -120,7 +120,7 @@ that has the specified (host) MAC address.
 ### configure the ethernet on usb0
 
 configure the USB0 network device with network manager and give it a fixed ip
-![this screenshot](../pics/Pastedimage20250727073101.png)
+![this screenshot](./pics/Pastedimage20250727073101.png)
 
 Change networkmanager configuration to also manage USB gadget devices. This way the "Autoconnect" option will work after reboot
 ```
