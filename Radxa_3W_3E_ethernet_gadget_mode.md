@@ -32,7 +32,9 @@ Exit the rsetup menu by choosing CANCEL until you go back to the shell
 reboot
 
 you should now see a usb0 interface when typing
-` ip a
+```
+ip a
+```
 
 The usb0 device will have a random generated mac address. 
 
@@ -43,10 +45,10 @@ https://en.wikipedia.org/wiki/MAC_address#Universal_vs._local_(U/L_bit)
 
 change the radxa scripts to specify a specific (Universally managed) MAC addresses to allow android connection. You can use the one in the script below.
 
-`sudo vi /usr/sbin/radxa-otgutils
-
+```
+sudo vi /usr/sbin/radxa-otgutils
+```
 search for the configfs_make function and add some lines
-
 ```
 configfs_make()
 {
@@ -195,7 +197,8 @@ tested on Samsung Galaxy Tab S8
 When connecting the 3W/3E devices directly to the tablet with a usb-c male-male cable it might occur that the device does not receive enough power from the tablet.
 Use a USB-C OTG adapter/splitter that allows you to connect power and data. This works very well.
 
-![[DSC_1572.jpg]]
+![](./pics/DSC_1572.jpg)
+
 
 ### Configure the ethernet device on android
 First disconnect from WiFi and Cellular to ensure the routing is working as expected.
