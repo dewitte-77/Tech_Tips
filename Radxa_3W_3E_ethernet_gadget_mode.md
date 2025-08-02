@@ -168,7 +168,7 @@ see screenshot below
  - Manually configure the IPv4 section and choose an IP address in the same range as above
  - make sure the "Automatically connect" and "Available to all users" options are checked
  - 
-![](.pics/Pastedimage20250802124832.png)
+![](./pics/Pastedimage20250802124832.png)
 
 exit the Network Manager config and check if the device is configured:
 ```
